@@ -8,7 +8,7 @@ to make a bill of an customer it require some information about customer which i
 By using this application the grossary sotre owner can give grossary to the customer with resonable rates with their appropriate bill.
 
 Discription about application:-
-this applicaton is devided into diffrent chunks
+this applicaton is devided into diffrent chunks.
 firt part of an applicatin is name of an grossary store which is "grossary billing systam".
 second part of an applicaton are customer related information wnich include "name of customer decleared by-name,email of an customer which is decleard by-email,phone no f an customer which is decleard by phone no" additional feature is which can be used in this chunk are" bill no which can helpfl to view previous bill of an customer".
 Third part of an application are purchesing section which include 1 coloum contain  cosmatics product's,2nd and 3rd coloum contain grossary product's ,4th coloum contain cold product's,5th coloum contain sweet product which is dairy product and last colum contain fast food products.
