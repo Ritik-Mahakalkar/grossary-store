@@ -1,1 +1,5 @@
-# grossary-store
+This is python application based on grossary store.
+By using this application the retailer can easily makes a bill of the customer
+This is an more than 1000 lines of code which having various functionalities which includes display toatal price of the grossary with their taxes 
+By using this application helps to finding any previous bill of an customer when they are comes to return any things
+By using this application the grossary sotre owner can give grossary to the customer with resonable rates with their appropriate bill.
